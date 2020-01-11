@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(16, 182, 38);
+}
+
+h3 {
+  font-size: 40px;
+}
+
+.question-box {
+  box-shadow: 0 0px 15px 0px black;
+  height: 500px;
+  width: 900px;
+  margin: 100px;
+  padding: 60px;
+  margin-left: 200px;
+  background-color: rgba(255, 0, 0, 0.788);
+}
+
+.question {
+  margin-left: 10px;
+  font-size: 30px;
+}
+
+.question-title {
+  margin-left: 10px;
+}
+
+.page-link {
+  color: black;
+  box-shadow: 0 0px 15px 0px black;
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid black;
+  background-color: white;
+}
+
+.correct {
+  padding: 50px;
+}
+
+.answer {
+  margin: 50px 0px 50px 50px;
+  font-size: 20px;
+}
